@@ -1,7 +1,7 @@
 public class A{
 	private int A1;
 	private float A2;
-        private String A3;
+	private String A3;
 
     public float soma(){
         return this.A1 + this.A2;
