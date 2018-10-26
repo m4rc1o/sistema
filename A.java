@@ -3,6 +3,10 @@ public class A{
 	private float A2;
         private String A3;
 
+    public float soma(){
+        return this.A1 + this.A2;
+    }
+    
     public String getA3() {
         return A3;
     }
